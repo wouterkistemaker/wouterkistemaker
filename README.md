@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a 19 year old software engineer hobbyist, mostly familiar with Java. 
+This is my personal profile, where I store some projects that show the world how awesome my software is! ;)
+
+I'm currently studying the Bachelor Technical Medicine at the [University of Twente](utwente.nl).
+
 📫 How to reach me
   - Discord: Woetroe#0206
 
@@ -17,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
