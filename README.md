@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 22 year old software engineer, mostly familiar with Java. 
+I am a 23 year old student, mostly familiar with Java. 
 This is my personal profile, where I store some projects that show the world how awesome my software is! ;)
 
 I'm currently studying the Master Technical Medicine at the [University of Twente](https://www.utwente.nl).
